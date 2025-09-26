@@ -1,0 +1,35 @@
+url1 -> 
+https://docs.google.com/document/d/1FLfYIN2ACkhm6kBoXkUOZGMGPs6Qj89REjbU7PPDm9w/edit?mode=html&tab=t.0#heading=h.fwydpsrfrf6j
+url2 ->
+https://docs.google.com/spreadsheets/d/1ecslmzGPMlXmDbbYr3MYSN_TGuh7FhhA/edit?gid=439640617#gid=439640617
+url3 : Test Plan ->
+https://docs.google.com/document/d/1Du5HuKBcpS7-APzZOg8UCLeOqUbhUcWB/edit
+url4 : BUG Reporting ->
+https://docs.google.com/document/d/1jCXeObT81geW_Hmrq1A4jjVPoWKKnHXi/edit
+url5 : TestMetrics ->
+https://docs.google.com/spreadsheets/d/1zAFuggYYik3og-YDSeqer3sj5vlT5-jQ/edit?gid=258691480#gid=258691480
+url6 : All Important manual testing template Links ->
+https://drive.google.com/drive/folders/11eAx342NHP1NGiqD_yQMAqfkZkbIjzNR
+URL7 : SDET GenAI
+https://docs.google.com/document/d/12bOdnRw0l34PxZ0qO25VLESYtLc8-YhfFamOHYZjVYM/edit?tab=t.0
+
+URL8 : Java Notes
+https://docs.google.com/document/d/1MTcTTWTKyet8lA78NifqANJq70OEDF98hoCdFbedBWc/edit?tab=t.0#heading=h.muytthg9lxb6
+
+URL9 : Java Slides
+https://docs.google.com/presentation/d/1zPUvG6vNf8hkeeq9o5DKZNjaVczKR9E3x-7pFnMK-Lw/edit?slide=id.g9843f0ef82_4_10#slide=id.g9843f0ef82_4_10
+
+URL10 : Java Interview Questions
+https://docs.google.com/document/d/1s_lip-9CG1dvw7uyDgnujfDLeczAZFIq6d8pW1myaVQ/edit?tab=t.0
+
+URL11 : Prompt for Tell Me About Yourself based on Resume + JD 
+https://www.perplexity.ai/search/based-on-this-resume-i-want-yo-r9eTN.nLRIefhNuLmAIZcQ
+
+URL12 : TMAY tips - 10 mins 
+https://www.youtube.com/watch?v=EzGH3hZuJVk
+
+URL13 : LinkedIn Headline Prompt
+https://www.perplexity.ai/search/please-help-me-create-a-linked-w3gx7e3CRjupUf9aJLnOJQ
+
+URL14 : Sample
+https://drive.google.com/file/d/1DmFI0nXyL22Z4dPkWx2K0-ycwYk3B5Oy/view
